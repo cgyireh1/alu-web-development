@@ -25,3 +25,10 @@ article, aside {
 header, footer {
   width: 100%;
 }
+.logo {
+  font-size: 24px;
+  margin: 0;
+  padding: 12px 0 12px 12px;
+  color: #fff;
+  background-color: #444;
+}
